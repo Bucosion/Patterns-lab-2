@@ -1,0 +1,16 @@
+C:\Users\Bucos Ion\source\repos\Decorator\Decorator\obj\Debug\net5.0\Decorator.csproj.AssemblyReference.cache
+C:\Users\Bucos Ion\source\repos\Decorator\Decorator\obj\Debug\net5.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bucos Ion\source\repos\Decorator\Decorator\obj\Debug\net5.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\Bucos Ion\source\repos\Decorator\Decorator\obj\Debug\net5.0\Decorator.AssemblyInfo.cs
+C:\Users\Bucos Ion\source\repos\Decorator\Decorator\obj\Debug\net5.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Bucos Ion\source\repos\Decorator\Decorator\bin\Debug\net5.0\Decorator.exe
+C:\Users\Bucos Ion\source\repos\Decorator\Decorator\bin\Debug\net5.0\Decorator.deps.json
+C:\Users\Bucos Ion\source\repos\Decorator\Decorator\bin\Debug\net5.0\Decorator.runtimeconfig.json
+C:\Users\Bucos Ion\source\repos\Decorator\Decorator\bin\Debug\net5.0\Decorator.runtimeconfig.dev.json
+C:\Users\Bucos Ion\source\repos\Decorator\Decorator\bin\Debug\net5.0\Decorator.dll
+C:\Users\Bucos Ion\source\repos\Decorator\Decorator\bin\Debug\net5.0\ref\Decorator.dll
+C:\Users\Bucos Ion\source\repos\Decorator\Decorator\bin\Debug\net5.0\Decorator.pdb
+C:\Users\Bucos Ion\source\repos\Decorator\Decorator\obj\Debug\net5.0\Decorator.dll
+C:\Users\Bucos Ion\source\repos\Decorator\Decorator\obj\Debug\net5.0\ref\Decorator.dll
+C:\Users\Bucos Ion\source\repos\Decorator\Decorator\obj\Debug\net5.0\Decorator.pdb
+C:\Users\Bucos Ion\source\repos\Decorator\Decorator\obj\Debug\net5.0\Decorator.genruntimeconfig.cache
